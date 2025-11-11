@@ -19,7 +19,7 @@ except ImportError:
 
 # Page config
 st.set_page_config(
-    page_title="Chat with Documents",
+    page_title="Chat with Documents and data",
     page_icon="📚",
     layout="wide"
 )
